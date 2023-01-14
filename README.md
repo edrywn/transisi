@@ -72,7 +72,6 @@ lib
 
 ## App Release
 
-<<<<<<< HEAD
 Go to this folder to install the App
 
 ```
