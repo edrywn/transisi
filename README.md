@@ -75,7 +75,7 @@ lib
 Go to this folder to install the App
 
 ```
-build\app\outputs\flutter-apk\
+release\
 ```
 
 or use link
