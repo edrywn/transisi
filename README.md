@@ -80,9 +80,6 @@ release\
 ```
 
 or use link
-=======
-Use link
->>>>>>> 65ac24fd109c5d67482c47e5384d56b29961a319
 
 [Link](https://drive.google.com/drive/u/1/folders/1uKPmIyy8iav_OIGcV16nrz0HX9WDgbYs)
 
