@@ -72,13 +72,7 @@ lib
 
 ## App Release
 
-Go to this folder to install the App
-
-```
-build\app\outputs\flutter-apk\
-```
-
-or use link
+Use link
 
 [Link](https://drive.google.com/drive/u/1/folders/1uKPmIyy8iav_OIGcV16nrz0HX9WDgbYs)
 
